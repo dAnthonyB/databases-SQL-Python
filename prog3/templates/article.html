@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <title>{{ paper.title }}</title>
+</head>
+<body>
+<h1><em>{{ paper.title }}</em></h1>
+<p>Published in {{ paper.issue.date }}.</p>
+<h2>Paper Citaion</h2>
+<ul>
+    {%- for author in paper.authors %}
+    {{ author }}
+    {%- endfor %}.
+    {{ paper.issue.date.year }}.
+    <a href="/articles/{{ paper.id }}">{{ paper.title }}</a>.
+    In <em>{%- if paper.issue.number %}
+        ({{ paper.issue.pub_title }}, {{ paper.issue.volume }}, {{ paper.issue.number }})
+    {%- endif %}
+    {%- if paper.issue.title %}
+    {{ paper.issue.title }}
+    {%- endif %}</em>.
+</ul>
+<h2>Abstract</h2>
+<p>{{ paper.abstract }}</p>
+</body>
+</html>

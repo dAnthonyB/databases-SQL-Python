@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+    <title>Search</title>
+</head>
+<body>
+<h1>Search Bugs</h1>
+<h3>Results:</h3>
+<p></p>
+<p></p>
+<table>
+    <thead>
+    <tr>
+        <th></th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    {%- for bug in bugs %}
+    <p>
+    <li>Bug Title: <a href="/bug/{{bug.id}}">{{bug.title}}</a></li>
+    </p>
+    {%- endfor %}
+    <li><a href="/">Home Page</a></li>
+    <li><a href="/browse/status/open/">Browse Open Bugs</a></li>
+    <li><a href="/browse/status/closed/">Browse Closed Bugs</a></li>
+    <li><a href="/browse/status/all/">Browse All Bugs</a></li>
+        <form action = "/search/bugs.title" method="POST">
+       Bug Title:<br>
+       <input type="text" name="title">
+        <br>
+            Bug Details:<br>
+            <input type = "text" name="details">
+            <br>
+    </form>
+
+
+    </tbody>
+</table>
+</body>
+</html>

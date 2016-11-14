@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+    <title>{{ bug.title }}</title>
+</head>
+<body>
+    <h1>Bug Info Page</h1>
+    <h2>Bug Title: {{ bug.title }}</h2>
+    <h3><a href="/user/{{user_id}}">Bug Creator: {{ bug.creator }}</a></h3>
+    <h3>Bug Status: {{ bug.status }}</h3>
+    <h3>Bug Creation Date: {{ bug.date }}</h3>
+    <h3>Bug Close Date: {{ bug.close_date }}</h3>
+    <h3><a href="/bug/{{bug_id}}/comments/{{user_id}}">Click To See Bug Comments</a></h3>
+    <h3><a href="/bug/{{bug_id}}/{{user_id}}/subscribe">Subscribe</a></h3>
+    <h3><a href="/bug/{{bug_id}}/{{user_id}}/unsubscribe">Unsubscribe</a></h3>
+</body>
+</html>
+
+<a href="/browse/status/all">Browse Bugs</a>

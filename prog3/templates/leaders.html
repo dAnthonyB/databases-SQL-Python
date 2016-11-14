@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+    <title>Author Leaderboard</title>
+</head>
+<body>
+<h1>Author Leaderboard</h1>
+<p>Authors by number of articles<p/>
+<ul>
+    {%- for author in authors %}
+        <li>
+            {{ author.name|safe }}-{{ author.totalArticles }}
+        </li>
+    {%- endfor %}
+</ul>
+</body>
+</html>

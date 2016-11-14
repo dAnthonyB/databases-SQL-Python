@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+    <title>Statement for: {{ donor_name }}</title>
+</head>
+<body>
+<p>{{ donor_name }}<br> {{ donor_address }}<br>
+    {{ donor_city }}, {{ donor_state }} {{ donor_zip }}</p>
+<h4 id="gifts">Gifts</h4>
+<table>
+    <thead>
+    <tr>
+        <th align="center">Date</th>
+        <th align="left">Fund</th>
+        <th align="right">Amount</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for byGift in byGifts %}
+    <tr>
+        <td align="center">{{ byGift.date }}</td>
+        <td align="left">{{ byGift.fund }}</td>
+        <td align="right">${{ byGift.amount }}</td>
+    </tr>
+    {% endfor %}
+    <tr>
+        <td align="center"></td>
+        <td align="left"><strong>Total</strong></td>
+        <td align="right"><strong>${{ byGiftTotal }}</strong></td>
+    </tr>
+    </tbody>
+</table>
+<h4 id="gifts-by-fund">{{ year }} Gifts by Fund</h4>
+<table>
+    <thead>
+    <tr class="header">
+        <th align="left">Fund</th>
+        <th align="right">Amount</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for byFund in byFunds %}
+    <tr>
+        <td align="left">{{ byFund.fund }}</td>
+        <td align="right">${{ byFund.amount }}</td>
+    </tr>
+    {% endfor %}
+    <tr>
+        <td align="left"><strong>Total</strong></td>
+        <td align="right"><strong>${{ byFundTotal }}</strong></td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>

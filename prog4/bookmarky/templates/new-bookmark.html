@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+  <title>Bookmarky</title>
+</head>
+<body>
+<h1>Bookmarky</h1>
+<h2>Create Bookmark</h2>
+<form action="/add" method="POST">
+  <input name="url" type="text" width="100" placeholder="URL"><br>
+  <input name="title" type="text" width="100" placeholder="Title"><br>
+  <textarea name="notes" rows="10" cols="50" placeholder="Notes"></textarea><br>
+  <input name="tags" type="text" width="100" placeholder="Tags (comma separated)"><br>
+  <input type="submit" name="action" value="Add">
+</form>
+</body>
+</html>

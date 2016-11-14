@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+    <title>Issue {{ issue.title }}</title>
+</head>
+<body>
+<h1><a href="/publications/{{ pub_id }}"><em>{{ pub.title }}</em></a></h1>
+Issue
+{%- if issue.volume %}
+<strong>{{ issue.volume }}</strong>
+{%- endif %}
+{%- if issue.number %}
+({{ issue.number }})
+{%- endif %}
+{%- if issue.title %}
+: <em>{{ issue.title }}</em>
+{%- endif %}
+, published on {{ issue.date }}
+<h2>Articles</h2>
+<ul>
+    {%- for article in articles %}
+        <li>
+            {%- for author in article.authors %}
+            {{ author }}
+            {%- endfor %}.
+            {{ issue.date.year }}.
+            <a href="/articles/{{ article.id }}">{{ article.title }}</a>.
+            In <em>
+            {%- if issue.title %}
+            	{{ issue.title }}
+            {%- else %}
+            	({{ pub.title }}, {{ issue.volume }}, {{ issue.number }})
+            {%- endif %}</em>.
+        </li>
+    {%- endfor %}
+</ul>
+</body>
+</html>

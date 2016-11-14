@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+    <title>User Browse</title>
+</head>
+<body>
+<h1>Browse Your Bugs</h1>
+<p></p>
+<p></p>
+<table>
+    <thead>
+    <tr>
+        <th></th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    {%- for bug in bugs %}
+    <p>
+        <td></td>
+        <b>BugID: </b>{{ bug.id }}
+        <b>Bug Title: </b>{{ bug.title }}
+        <b>Filter: </b>{{ bug.filter }}
+        <td></td>
+    </p>
+    {%- endfor %}
+    <li><a href="/">Main Home Page</a></li>
+    <li><a href="/home/{{user_id}}">Your Home Page</a></li>
+    <li><a href="/user_browse/{{user_id}}/created/all/">Browse All Your Created Bugs</a></li>
+    <li><a href="/user_browse/{{user_id}}/assigned/all/">Browse All Bugs Assigned to You</a></li>
+
+    </tbody>
+</table>
+</body>
+</html>

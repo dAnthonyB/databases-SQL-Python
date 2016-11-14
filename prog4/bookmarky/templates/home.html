@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+  <title>Bookmarky</title>
+</head>
+<head>
+  <h1>Bookmarky</h1>
+  <p>Welcome, {{ user.name }}</p>
+  <ul>
+    <li><a href="/add">Add bookmark</a></li>
+  </ul>
+  <h2>Bookmarks</h2>
+  {% for mark in bookmarks %}
+    <div>
+    <a href="{{ mark.url }}">{{ mark.title }}</a>
+    {% if mark.notes %}
+    <p>{{ mark.notes }}</p>
+    {% endif %}
+    {% if mark.tags %}
+      <p>Tagged with {{ mark.tags | join(', ') }}</p>
+    {% endif %}
+    <p><a href="/edit/{{ mark.id }}">Edit this bookmark</a></p>
+    </div>
+  {% endfor %}
+</head>
+</html>

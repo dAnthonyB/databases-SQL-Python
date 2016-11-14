@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+    <title>Milestones</title>
+</head>
+<h1>All Milestones</h1>
+<body>
+        {%- for milestone in milestones %}
+            <li>Name: <a href="/milestone/{{ milestone.id }}">{{milestone.name}}</a> Description: {{milestone.description}}</li>
+        {%- endfor %}
+</body>
+</html>

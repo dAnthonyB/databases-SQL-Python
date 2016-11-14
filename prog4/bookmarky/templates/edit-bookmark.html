@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <title>Bookmarky</title>
+</head>
+<body>
+<h1>Bookmarky</h1>
+<h2>Edit bookmark</h2>
+<form action="/edit/{{ bookmark.id }}" method="POST">
+  <input name="id" type="hidden" value="{{ bookmark.id }}">
+  <input name="url" type="text" width="100" placeholder="URL" value="{{ bookmark.url }}"><br>
+  <input name="title" type="text" width="100" placeholder="Title" value="{{ bookmark.title }}"><br>
+  <textarea name="notes" rows="10" cols="50" placeholder="Notes">{{ bookmark.notes }}</textarea><br>
+  <input name="tags" type="text" width="100" placeholder="Tags (comma separated)"
+          value="{{ bookmark.tags | join(', ') }}"><br>
+  <input type="submit" name="action" value="Edit">
+</form>
+</body>
+</html>

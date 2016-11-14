@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+    <title>Bug Comments</title>
+</head>
+<body>
+<h1>Bug Comments</h1>
+<p></p>
+<p></p>
+<table>
+    <thead>
+    <tr>
+        <th></th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    {%- for comment in comments %}
+    <p>
+        <td></td>
+        <b>CommentID: </b>{{ comment.aid }}
+        <b>Comment Text: </b>{{ comment.comment_text }}
+        <b>Comment Date: </b>{{ comment.comment_date }}
+        <td></td>
+    </p>
+    {%- endfor %}
+    <li><a href="/bug/{{bug_id}}/comments/new/{{user_id}}"> Add a New Comment</a></li>
+
+    <li><a href="/">Home Page</a></li>
+    <li><a href="/browse/status/open/">Browse Open Bugs</a></li>
+    <li><a href="/browse/status/closed/">Browse Closed Bugs</a></li>
+    <li><a href="/browse/status/all/">Browse All Bugs</a></li>
+    <li><a href="/browse/assignee/all/">Browse by Assignee</a></li>
+    <li><a href="/browse/tag/all/">Browse by Tag</a></li>
+    <li><a href="/browse/creator/all/">Browse by Creator</a></li>
+
+    </tbody>
+</table>
+</body>
+</html>

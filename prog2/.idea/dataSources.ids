@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="SQLite - [2]" uuid="d6d65929-6b41-4c4a-bf43-17314de50825">
+    <database-info product="SQLite" version="3.8.9" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native"/>
+    <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed"/>
+    <schema name="" catalog=""/>
+    <table name="donor" schema="" catalog="" type="TABLE">
+      <column name="donor_id" sqlType="INTEGER" precision="2000000000" scale="10" nullable="true" jdbcType="4"/>
+      <column name="donor_name" sqlType="" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <column name="donor_email" sqlType="" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <column name="donor_address" sqlType="" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <column name="donor_city" sqlType="" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <column name="donor_state" sqlType="" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <column name="donor_zip" sqlType="" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="donor_id"/>
+      <exported-key name="#FAKE_gift_1" table="gift" schema="" catalog="" columns="donor_id"/>
+    </table>
+    <table name="fund" schema="" catalog="" type="TABLE">
+      <column name="fund_id" sqlType="INTEGER" precision="2000000000" scale="10" nullable="true" jdbcType="4"/>
+      <column name="fund_name" sqlType="" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="fund_id"/>
+      <exported-key name="#FAKE_gift_fund_allocation_1" table="gift_fund_allocation" schema="" catalog="" columns="fund_id"/>
+    </table>
+    <table name="gift" schema="" catalog="" type="TABLE">
+      <column name="gift_id" sqlType="SERIAL" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
+      <column name="donor_id" sqlType="INTEGER" precision="2000000000" scale="10" nullable="false" jdbcType="4"/>
+      <column name="gift_date" sqlType="" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="gift_id"/>
+      <foreign-key name="#FAKE_gift_1" columns="donor_id" ref-table="donor" ref-schema="" ref-catalog="" ref-columns="donor_id" update-rule="3" delete-rule="3" deferrability="1"/>
+      <exported-key name="#FAKE_gift_fund_allocation_2" table="gift_fund_allocation" schema="" catalog="" columns="gift_id"/>
+      <index name="gift_donor_idx" unique="true" columns="donor_id"/>
+    </table>
+    <table name="gift_fund_allocation" schema="" catalog="" type="TABLE">
+      <column name="gf_alloc_id" sqlType="SERIAL" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
+      <column name="gift_id" sqlType="INTEGER" precision="2000000000" scale="10" nullable="false" jdbcType="4"/>
+      <column name="fund_id" sqlType="INTEGER" precision="2000000000" scale="10" nullable="false" jdbcType="4"/>
+      <column name="amount" sqlType="" precision="2000000000" scale="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="gf_alloc_id"/>
+      <foreign-key name="#FAKE_gift_fund_allocation_1" columns="fund_id" ref-table="fund" ref-schema="" ref-catalog="" ref-columns="fund_id" update-rule="3" delete-rule="3" deferrability="1"/>
+      <foreign-key name="#FAKE_gift_fund_allocation_2" columns="gift_id" ref-table="gift" ref-schema="" ref-catalog="" ref-columns="gift_id" update-rule="3" delete-rule="3" deferrability="1"/>
+    </table>
+    <table name="sqlite_stat1" schema="" catalog="" type="TABLE">
+      <column name="tbl" sqlType="" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
+      <column name="idx" sqlType="" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
+      <column name="stat" sqlType="" precision="2000000000" scale="10" nullable="true" jdbcType="12"/>
+    </table>
+  </data-source>
+</component>

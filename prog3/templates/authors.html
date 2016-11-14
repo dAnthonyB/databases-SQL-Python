@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+    <title>Author: {{ author.name }}</title>
+</head>
+<body>
+<p>Total Articles: {{ author.total }}</p>
+<h2>Articles</h2>
+<ul>
+    {%- for article in articles %}
+        <li>
+            {%- for coAuthor in article.authors %}
+            {{ coAuthor|safe }}
+            {%- endfor %}.
+            {{ article.issue_date }}.
+            <a href="/articles/{{ article.id }}">{{ article.title }}</a>.
+            In <em>{%- if article.issue_num %}
+            	({{ article.pub_title }}, {{ article.issue_vol }}, {{ article.issue_num }})
+            {%- endif %}
+            {%- if article.issue_title %}
+            	{{ article.issue_title }}
+            {%- endif %}</em>.
+        </li>
+    {%- endfor %}
+</ul>
+</body>
+</html>

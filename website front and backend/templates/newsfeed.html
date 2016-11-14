@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+    <title>Newsfeed</title>
+</head>
+<body>
+<h1>Newsfeed of User display_name{{user_id}}</h1>
+<ul>
+    {% for sub in subscriptions %}
+        <li>Description: {{sub.description}}<p>Content: {{ sub.content }}</p><p>Date: {{sub.sub_date}}</p></li>
+
+    {% endfor %}
+    <p><a href="/">Home Page</a></p>
+</ul>
+</body>
+</html>

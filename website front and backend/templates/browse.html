@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+    <title>Browse</title>
+</head>
+<body>
+<h1>Browse Bugs</h1>
+<p></p>
+<p></p>
+<table>
+    <thead>
+    <tr>
+        <th></th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    {%- for bug in bugs %}
+    <p>
+        <td></td>
+        Bug Title: <a href="/bug/{{bug.id}}"><b></b>{{ bug.title }}</a>
+        <b> Filter: </b>{{ bug.filter }}
+        <td></td>
+    </p>
+    {%- endfor %}
+    <li><a href="/">Home Page</a></li>
+    <li><a href="/browse/status/open/">Browse Open Bugs</a></li>
+    <li><a href="/browse/status/closed/">Browse Closed Bugs</a></li>
+    <li><a href="/browse/status/all/">Browse All Bugs</a></li>
+    <li><a href="/browse/assignee/all/">Browse by Assignee</a></li>
+    <li><a href="/browse/tag/all/">Browse by Tag</a></li>
+    <li><a href="/browse/creator/all/">Browse by Creator</a></li>
+
+    </tbody>
+</table>
+</body>
+</html>

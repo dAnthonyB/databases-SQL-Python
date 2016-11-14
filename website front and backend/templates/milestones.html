@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+    <title>Milestone {{milestone.id}}</title>
+</head>
+<h1>Milestone {{milestone.name}}</h1>
+<h2>Description: {{milestone.description}}</h2>
+<h3>Closed Percentage = {{milestone.progress}}%</h3>
+<body>
+        {%- for bug in bugs %}
+            <li>Bug Name: <a href="/bug/{{bug.id}}/">{{bug.title}}</a> Status: {{bug.status}}</li>
+        {%- endfor %}
+</body>
+</html>

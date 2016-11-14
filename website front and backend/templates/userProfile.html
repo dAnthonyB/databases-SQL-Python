@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+    <title>{{user.username}}</title>
+</head>
+<h1>Username: {{user.username}}</h1>
+<h2>Display Name: {{user.display_name}}</h2>
+<h2>Email: {{user.email}}</h2>
+<h2>Role: {{user.role}}</h2>
+<body>
+    {%- for bug in bugs %}
+        <li>Bug: <a href="/bug/{{ bug.id }}/">{{bug.title}}</a></li>
+    {%- endfor %}
+</body>
+</html>

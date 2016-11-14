@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="becce6c1-5975-40b4-9c4f-fb78ef1d2894" name="Default" comment="" />
+    <ignored path="HW5.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Texas State rr3" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Texas State rr3" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="project" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Texas State rr3" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="project" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="bug" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Texas State rr3" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="project" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HW5" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="projectPython.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Project/My project contributions/website/projectPython.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#272#523#0" expanded="false" />
+                <element signature="e#1452#2153#0" expanded="false" />
+                <element signature="e#2221#2881#0" expanded="false" />
+                <element signature="e#2952#4110#0" expanded="false" />
+                <element signature="e#4203#5617#0" expanded="false" />
+                <element signature="e#5722#6376#0" expanded="false" />
+                <element signature="e#6493#8203#0" expanded="false" />
+                <element signature="e#8321#8975#0" expanded="false" />
+                <element signature="e#9039#9633#0" expanded="false" />
+                <element signature="e#9724#11037#0" expanded="false" />
+                <element signature="e#11136#13174#0" expanded="false" />
+                <element signature="e#13293#15263#0" expanded="false" />
+                <element signature="e#15345#15884#0" expanded="false" />
+                <element signature="e#15976#16693#0" expanded="false" />
+                <element signature="e#16784#17357#0" expanded="false" />
+                <element signature="e#17462#19023#0" expanded="false" />
+                <marker date="1448246525223" expanded="true" signature="1735:1859" placeholder="INSERT INTO &quot;user&quot;..." />
+                <marker date="1448246525223" expanded="true" signature="2497:2544" placeholder="SELECT user_..user..." />
+                <marker date="1448246525223" expanded="true" signature="2497:2573" placeholder="SELECT user_..user..." />
+                <marker date="1448246525223" expanded="true" signature="2497:2574" placeholder="SELECT user_..user..." />
+                <marker date="1448246525223" expanded="true" signature="2497:2604" placeholder="SELECT user_..user..." />
+                <marker date="1448246525223" expanded="true" signature="2497:2605" placeholder="SELECT user_..user..." />
+                <marker date="1448246525223" expanded="true" signature="2497:2606" placeholder="SELECT user_..user..." />
+                <marker date="1448246525223" expanded="true" signature="3201:3296" placeholder="SELECT usern..user..." />
+                <marker date="1448246525223" expanded="true" signature="3700:3909" placeholder="SELECT title..bug..." />
+                <marker date="1448246525223" expanded="true" signature="4514:4745" placeholder="SELECT title..bug..." />
+                <marker date="1448246525223" expanded="true" signature="5139:5286" placeholder="SELECT user_..user_sub_bug..." />
+                <marker date="1448246525223" expanded="true" signature="6016:6209" placeholder="SELECT autho..bug..." />
+                <marker date="1448246525223" expanded="true" signature="6918:7006" placeholder="SELECT user_..user..." />
+                <marker date="1448246525223" expanded="true" signature="7330:7502" placeholder="INSERT INTO comment..." />
+                <marker date="1448246525223" expanded="true" signature="7682:7784" placeholder="INSERT INTO mention..." />
+                <marker date="1448246525223" expanded="true" signature="7924:8096" placeholder="INSERT INTO comment..." />
+                <marker date="1448246525223" expanded="true" signature="8527:8603" placeholder="INSERT INTO user_sub_bug..." />
+                <marker date="1448246525223" expanded="true" signature="8755:8869" placeholder="DELETE FROM ..." />
+                <marker date="1448246525223" expanded="true" signature="9217:9288" placeholder="SELECT miles..milestone..." />
+                <marker date="1448246525223" expanded="true" signature="9217:9374" placeholder="SELECT miles..milestone..." />
+                <marker date="1448246525223" expanded="true" signature="9947:10052" placeholder="SELECT miles..milestone..." />
+                <marker date="1448246525223" expanded="true" signature="10338:10524" placeholder="SELECT bug_i..bug..." />
+                <marker date="1448246525223" expanded="true" signature="11343:11447" placeholder="SELECT title..bug..." />
+                <marker date="1448246525223" expanded="true" signature="11540:11698" placeholder="SELECT title..bug..." />
+                <marker date="1448246525223" expanded="true" signature="11800:11993" placeholder="SELECT title..bug..." />
+                <marker date="1448246525223" expanded="true" signature="12100:12376" placeholder="SELECT title..bug..." />
+                <marker date="1448246525223" expanded="true" signature="12482:12704" placeholder="SELECT title..bug..." />
+                <marker date="1448246525223" expanded="true" signature="12859:12963" placeholder="SELECT bug_t..bug..." />
+                <marker date="1448246525223" expanded="true" signature="13599:13862" placeholder="SELECT bug_t..bug..." />
+                <marker date="1448246525223" expanded="true" signature="13964:14282" placeholder="SELECT bug_t..bug..." />
+                <marker date="1448246525223" expanded="true" signature="14440:14657" placeholder="SELECT bug_t..bug..." />
+                <marker date="1448246525223" expanded="true" signature="14759:15030" placeholder="SELECT bug_t..bug..." />
+                <marker date="1448246525223" expanded="true" signature="15507:15602" placeholder="SELECT bug_i..bug..." />
+                <marker date="1448246525223" expanded="true" signature="15507:15627" placeholder="SELECT bug_i..bug..." />
+                <marker date="1448246525223" expanded="true" signature="15507:15642" placeholder="SELECT bug_i..bug..." />
+                <marker date="1448246525223" expanded="true" signature="15507:15648" placeholder="SELECT bug_i..bug..." />
+                <marker date="1448246525223" expanded="true" signature="15507:15693" placeholder="SELECT bug_i..bug..." />
+                <marker date="1448246525223" expanded="true" signature="16128:16308" placeholder="INSERT INTO bug..." />
+                <marker date="1448246525223" expanded="true" signature="16402:16428" placeholder="SELECT bug_t..bug..." />
+                <marker date="1448246525223" expanded="true" signature="16402:16430" placeholder="SELECT max(b..bug..." />
+                <marker date="1448246525223" expanded="true" signature="16402:16462" placeholder="SELECT max(b..bug..." />
+                <marker date="1448246525223" expanded="true" signature="16507:16609" placeholder="INSERT INTO user_sub_bug..." />
+                <marker date="1448246525223" expanded="true" signature="17137:17254" placeholder="UPDATE bug S..." />
+                <marker date="1448246525223" expanded="true" signature="17678:17837" placeholder="SELECT title..bug..." />
+                <marker date="1448246525223" expanded="true" signature="17678:18783" placeholder="SELECT title..." />
+                <marker date="1448246525223" expanded="true" signature="17974:18175" placeholder="SELECT comme..comment..." />
+                <marker date="1448246525223" expanded="true" signature="18262:18431" placeholder="SELECT bug_t..bug..." />
+                <marker date="1448246525223" expanded="true" signature="18508:18703" placeholder="SELECT comme..comment..." />
+                <marker date="1448246525223" expanded="true" signature="18508:18704" placeholder="SELECT comme..comment..." />
+                <marker date="1448246525223" expanded="true" signature="18508:18712" placeholder="SELECT comme..comment..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DATABASE/7e5f2409-186c-4e91-92f5-756079509dd7.SCHEMA:cs4332rr3.project" pinned="false" current-in-tab="false">
+        <entry file="uml://DATABASE/7e5f2409-186c-4e91-92f5-756079509dd7.SCHEMA:cs4332rr3.project">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>7e5f2409-186c-4e91-92f5-756079509dd7.SCHEMA:cs4332rr3.project</OriginalElement>
+              <nodes>
+                <node x="514.0" y="470.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.tag</node>
+                <node x="246.50000000000003" y="0.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user</node>
+                <node x="29.892857142857224" y="639.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.mention</node>
+                <node x="702.0" y="481.5">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_sub_bug</node>
+                <node x="912.2500000000001" y="257.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.milestone</node>
+                <node x="320.0" y="470.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_assigned_bug</node>
+                <node x="472.5" y="213.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug</node>
+                <node x="56.0" y="448.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.comment</node>
+                <node x="876.0" y="481.5">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug_milestone</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.comment" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user">
+                  <point x="-61.0" y="-70.5" />
+                  <point x="117.0" y="193.0" />
+                  <point x="316.70000000000005" y="193.0" />
+                  <point x="-46.80000000000001" y="81.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_sub_bug" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user">
+                  <point x="38.5" y="-37.0" />
+                  <point x="817.5" y="183.0" />
+                  <point x="457.1" y="183.0" />
+                  <point x="93.60000000000002" y="81.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.mention" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user">
+                  <point x="-38.5" y="-37.0" />
+                  <point x="68.39285714285722" y="614.0" />
+                  <point x="45.5" y="614.0" />
+                  <point x="45.5" y="183.0" />
+                  <point x="269.9" y="183.0" />
+                  <point x="-93.60000000000002" y="81.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_assigned_bug" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user">
+                  <point x="-43.5" y="-48.5" />
+                  <point x="0.0" y="81.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.mention" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.comment">
+                  <point x="38.5" y="-37.0" />
+                  <point x="145.39285714285722" y="614.0" />
+                  <point x="178.0" y="614.0" />
+                  <point x="0.0" y="70.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug_milestone" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.milestone">
+                  <point x="46.25" y="-37.0" />
+                  <point x="0.0" y="48.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_assigned_bug" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug">
+                  <point x="43.5" y="-48.5" />
+                  <point x="450.5" y="428.0" />
+                  <point x="547.8" y="428.0" />
+                  <point x="-50.200000000000045" y="92.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.comment" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug">
+                  <point x="61.0" y="-70.5" />
+                  <point x="239.0" y="418.0" />
+                  <point x="497.6" y="418.0" />
+                  <point x="-100.39999999999998" y="92.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_sub_bug" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug">
+                  <point x="-38.5" y="-37.0" />
+                  <point x="740.5" y="428.0" />
+                  <point x="648.2" y="428.0" />
+                  <point x="50.200000000000045" y="92.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user">
+                  <point x="0.0" y="-92.5" />
+                  <point x="598.0" y="193.0" />
+                  <point x="410.30000000000007" y="193.0" />
+                  <point x="46.80000000000001" y="81.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.tag" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug">
+                  <point x="0.0" y="-48.5" />
+                  <point x="0.0" y="92.5" />
+                </edge>
+                <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug_milestone" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug">
+                  <point x="-46.25" y="-37.0" />
+                  <point x="922.25" y="418.0" />
+                  <point x="698.4" y="418.0" />
+                  <point x="100.39999999999998" y="92.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.8676671214188267" x="226.60377358490564" y="326.60377358490564" />
+              <SelectedNodes>
+                <node>7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug_milestone</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addData.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Project/My project contributions/website/addData.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.0">
+              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RR3 database tables.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Project/My project contributions/website/RR3 database tables.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7e5f2409-186c-4e91-92f5-756079509dd7/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.266666">
+              <caret line="92" column="21" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cs4332rr3.project.bug" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/9a649409/7e5f2409-186c-4e91-92f5-756079509dd7/cs4332rr3.project.bug">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="articleserver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../HW4/articleserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="252" column="52" selection-start-line="252" selection-start-column="52" selection-end-line="252" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bookmarky/settings.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f9e52445-d297-4bb4-ac8a-18bc9389c93f/console.sql" />
+        <option value="$PROJECT_DIR$/bookmarky/schema.sql" />
+        <option value="$USER_HOME$/Application Data/SSH/temp/settings.py" />
+        <option value="$PROJECT_DIR$/../HW4/templates/issue.html" />
+        <option value="$USER_HOME$/Application Data/SSH/temp/issue (3).html" />
+        <option value="$PROJECT_DIR$/../HW4/articleserver.py" />
+        <option value="$PROJECT_DIR$/../HW4/settings.py" />
+        <option value="$USER_HOME$/Application Data/SSH/temp/settings (1).py" />
+        <option value="$USER_HOME$/Application Data/SSH/temp/settings (3).py" />
+        <option value="$USER_HOME$/Application Data/SSH/temp/issue.html" />
+        <option value="$USER_HOME$/Application Data/SSH/temp/articleserver.py" />
+        <option value="$PROJECT_DIR$/bookmarky/bookmarky.py" />
+        <option value="$PROJECT_DIR$/../Project/My project contributions/website/RR3 database tables.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7e5f2409-186c-4e91-92f5-756079509dd7/console.sql" />
+        <option value="$PROJECT_DIR$/../Project/My project contributions/website/addData.sql" />
+        <option value="$PROJECT_DIR$/../Project/My project contributions/website/projectPython.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="169" />
+    <option name="y" value="26" />
+    <option name="width" value="1381" />
+    <option name="height" value="1052" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/SQL Dialects" value="PostgreSQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anthony\downloads" />
+      <recent name="C:\Users\Anthony\Downloads" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HW5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="becce6c1-5975-40b4-9c4f-fb78ef1d2894" name="Default" comment="" />
+      <created>1447607113373</created>
+      <option name="number" value="Default" />
+      <updated>1447607113373</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="169" y="26" width="1381" height="1052" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22620381" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12580645" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19984859" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3344519" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12580645" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20053764" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bookmarky/bookmarky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW4/articleserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="125" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarky/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarky/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarky/bookmarky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarky/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarky/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW4/templates/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2628435">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW4/templates/issue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31660694">
+          <caret line="14" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarky/bookmarky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW4/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20276497">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarky/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4907621">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarky/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/9a649409/7e5f2409-186c-4e91-92f5-756079509dd7/cs4332rr3.project.bug_milestone">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/9a649409/7e5f2409-186c-4e91-92f5-756079509dd7/cs4332rr3.project.mention">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW4/articleserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="252" column="52" selection-start-line="252" selection-start-column="52" selection-end-line="252" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Project/My project contributions/website/RR3 database tables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/9a649409/7e5f2409-186c-4e91-92f5-756079509dd7/cs4332rr3.project.bug">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7e5f2409-186c-4e91-92f5-756079509dd7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.266666">
+          <caret line="92" column="21" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/7e5f2409-186c-4e91-92f5-756079509dd7.SCHEMA:cs4332rr3.project">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>7e5f2409-186c-4e91-92f5-756079509dd7.SCHEMA:cs4332rr3.project</OriginalElement>
+          <nodes>
+            <node x="514.0" y="470.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.tag</node>
+            <node x="246.50000000000003" y="0.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user</node>
+            <node x="29.892857142857224" y="639.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.mention</node>
+            <node x="702.0" y="481.5">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_sub_bug</node>
+            <node x="912.2500000000001" y="257.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.milestone</node>
+            <node x="320.0" y="470.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_assigned_bug</node>
+            <node x="472.5" y="213.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug</node>
+            <node x="56.0" y="448.0">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.comment</node>
+            <node x="876.0" y="481.5">7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug_milestone</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.comment" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user">
+              <point x="-61.0" y="-70.5" />
+              <point x="117.0" y="193.0" />
+              <point x="316.70000000000005" y="193.0" />
+              <point x="-46.80000000000001" y="81.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_sub_bug" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user">
+              <point x="38.5" y="-37.0" />
+              <point x="817.5" y="183.0" />
+              <point x="457.1" y="183.0" />
+              <point x="93.60000000000002" y="81.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.mention" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user">
+              <point x="-38.5" y="-37.0" />
+              <point x="68.39285714285722" y="614.0" />
+              <point x="45.5" y="614.0" />
+              <point x="45.5" y="183.0" />
+              <point x="269.9" y="183.0" />
+              <point x="-93.60000000000002" y="81.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_assigned_bug" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user">
+              <point x="-43.5" y="-48.5" />
+              <point x="0.0" y="81.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.mention" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.comment">
+              <point x="38.5" y="-37.0" />
+              <point x="145.39285714285722" y="614.0" />
+              <point x="178.0" y="614.0" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug_milestone" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.milestone">
+              <point x="46.25" y="-37.0" />
+              <point x="0.0" y="48.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_assigned_bug" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug">
+              <point x="43.5" y="-48.5" />
+              <point x="450.5" y="428.0" />
+              <point x="547.8" y="428.0" />
+              <point x="-50.200000000000045" y="92.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.comment" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug">
+              <point x="61.0" y="-70.5" />
+              <point x="239.0" y="418.0" />
+              <point x="497.6" y="418.0" />
+              <point x="-100.39999999999998" y="92.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user_sub_bug" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug">
+              <point x="-38.5" y="-37.0" />
+              <point x="740.5" y="428.0" />
+              <point x="648.2" y="428.0" />
+              <point x="50.200000000000045" y="92.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.user">
+              <point x="0.0" y="-92.5" />
+              <point x="598.0" y="193.0" />
+              <point x="410.30000000000007" y="193.0" />
+              <point x="46.80000000000001" y="81.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.tag" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug">
+              <point x="0.0" y="-48.5" />
+              <point x="0.0" y="92.5" />
+            </edge>
+            <edge source="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug_milestone" target="7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug">
+              <point x="-46.25" y="-37.0" />
+              <point x="922.25" y="418.0" />
+              <point x="698.4" y="418.0" />
+              <point x="100.39999999999998" y="92.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8676671214188267" x="226.60377358490564" y="326.60377358490564" />
+          <SelectedNodes>
+            <node>7e5f2409-186c-4e91-92f5-756079509dd7.TABLE:cs4332rr3.project.bug_milestone</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Project/My project contributions/website/projectPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#272#523#0" expanded="false" />
+            <element signature="e#1452#2153#0" expanded="false" />
+            <element signature="e#2221#2881#0" expanded="false" />
+            <element signature="e#2952#4110#0" expanded="false" />
+            <element signature="e#4203#5617#0" expanded="false" />
+            <element signature="e#5722#6376#0" expanded="false" />
+            <element signature="e#6493#8203#0" expanded="false" />
+            <element signature="e#8321#8975#0" expanded="false" />
+            <element signature="e#9039#9633#0" expanded="false" />
+            <element signature="e#9724#11037#0" expanded="false" />
+            <element signature="e#11136#13174#0" expanded="false" />
+            <element signature="e#13293#15263#0" expanded="false" />
+            <element signature="e#15345#15884#0" expanded="false" />
+            <element signature="e#15976#16693#0" expanded="false" />
+            <element signature="e#16784#17357#0" expanded="false" />
+            <element signature="e#17462#19023#0" expanded="false" />
+            <marker date="1448246525223" expanded="true" signature="1735:1859" placeholder="INSERT INTO &quot;user&quot;..." />
+            <marker date="1448246525223" expanded="true" signature="2497:2544" placeholder="SELECT user_..user..." />
+            <marker date="1448246525223" expanded="true" signature="2497:2573" placeholder="SELECT user_..user..." />
+            <marker date="1448246525223" expanded="true" signature="2497:2574" placeholder="SELECT user_..user..." />
+            <marker date="1448246525223" expanded="true" signature="2497:2604" placeholder="SELECT user_..user..." />
+            <marker date="1448246525223" expanded="true" signature="2497:2605" placeholder="SELECT user_..user..." />
+            <marker date="1448246525223" expanded="true" signature="2497:2606" placeholder="SELECT user_..user..." />
+            <marker date="1448246525223" expanded="true" signature="3201:3296" placeholder="SELECT usern..user..." />
+            <marker date="1448246525223" expanded="true" signature="3700:3909" placeholder="SELECT title..bug..." />
+            <marker date="1448246525223" expanded="true" signature="4514:4745" placeholder="SELECT title..bug..." />
+            <marker date="1448246525223" expanded="true" signature="5139:5286" placeholder="SELECT user_..user_sub_bug..." />
+            <marker date="1448246525223" expanded="true" signature="6016:6209" placeholder="SELECT autho..bug..." />
+            <marker date="1448246525223" expanded="true" signature="6918:7006" placeholder="SELECT user_..user..." />
+            <marker date="1448246525223" expanded="true" signature="7330:7502" placeholder="INSERT INTO comment..." />
+            <marker date="1448246525223" expanded="true" signature="7682:7784" placeholder="INSERT INTO mention..." />
+            <marker date="1448246525223" expanded="true" signature="7924:8096" placeholder="INSERT INTO comment..." />
+            <marker date="1448246525223" expanded="true" signature="8527:8603" placeholder="INSERT INTO user_sub_bug..." />
+            <marker date="1448246525223" expanded="true" signature="8755:8869" placeholder="DELETE FROM ..." />
+            <marker date="1448246525223" expanded="true" signature="9217:9288" placeholder="SELECT miles..milestone..." />
+            <marker date="1448246525223" expanded="true" signature="9217:9374" placeholder="SELECT miles..milestone..." />
+            <marker date="1448246525223" expanded="true" signature="9947:10052" placeholder="SELECT miles..milestone..." />
+            <marker date="1448246525223" expanded="true" signature="10338:10524" placeholder="SELECT bug_i..bug..." />
+            <marker date="1448246525223" expanded="true" signature="11343:11447" placeholder="SELECT title..bug..." />
+            <marker date="1448246525223" expanded="true" signature="11540:11698" placeholder="SELECT title..bug..." />
+            <marker date="1448246525223" expanded="true" signature="11800:11993" placeholder="SELECT title..bug..." />
+            <marker date="1448246525223" expanded="true" signature="12100:12376" placeholder="SELECT title..bug..." />
+            <marker date="1448246525223" expanded="true" signature="12482:12704" placeholder="SELECT title..bug..." />
+            <marker date="1448246525223" expanded="true" signature="12859:12963" placeholder="SELECT bug_t..bug..." />
+            <marker date="1448246525223" expanded="true" signature="13599:13862" placeholder="SELECT bug_t..bug..." />
+            <marker date="1448246525223" expanded="true" signature="13964:14282" placeholder="SELECT bug_t..bug..." />
+            <marker date="1448246525223" expanded="true" signature="14440:14657" placeholder="SELECT bug_t..bug..." />
+            <marker date="1448246525223" expanded="true" signature="14759:15030" placeholder="SELECT bug_t..bug..." />
+            <marker date="1448246525223" expanded="true" signature="15507:15602" placeholder="SELECT bug_i..bug..." />
+            <marker date="1448246525223" expanded="true" signature="15507:15627" placeholder="SELECT bug_i..bug..." />
+            <marker date="1448246525223" expanded="true" signature="15507:15642" placeholder="SELECT bug_i..bug..." />
+            <marker date="1448246525223" expanded="true" signature="15507:15648" placeholder="SELECT bug_i..bug..." />
+            <marker date="1448246525223" expanded="true" signature="15507:15693" placeholder="SELECT bug_i..bug..." />
+            <marker date="1448246525223" expanded="true" signature="16128:16308" placeholder="INSERT INTO bug..." />
+            <marker date="1448246525223" expanded="true" signature="16402:16428" placeholder="SELECT bug_t..bug..." />
+            <marker date="1448246525223" expanded="true" signature="16402:16430" placeholder="SELECT max(b..bug..." />
+            <marker date="1448246525223" expanded="true" signature="16402:16462" placeholder="SELECT max(b..bug..." />
+            <marker date="1448246525223" expanded="true" signature="16507:16609" placeholder="INSERT INTO user_sub_bug..." />
+            <marker date="1448246525223" expanded="true" signature="17137:17254" placeholder="UPDATE bug S..." />
+            <marker date="1448246525223" expanded="true" signature="17678:17837" placeholder="SELECT title..bug..." />
+            <marker date="1448246525223" expanded="true" signature="17678:18783" placeholder="SELECT title..." />
+            <marker date="1448246525223" expanded="true" signature="17974:18175" placeholder="SELECT comme..comment..." />
+            <marker date="1448246525223" expanded="true" signature="18262:18431" placeholder="SELECT bug_t..bug..." />
+            <marker date="1448246525223" expanded="true" signature="18508:18703" placeholder="SELECT comme..comment..." />
+            <marker date="1448246525223" expanded="true" signature="18508:18704" placeholder="SELECT comme..comment..." />
+            <marker date="1448246525223" expanded="true" signature="18508:18712" placeholder="SELECT comme..comment..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Project/My project contributions/website/addData.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
